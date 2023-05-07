@@ -11,7 +11,6 @@ license=('GPL')
 depends=(
                 'bash-completion'
                 'binutils'
-                'byobu'
                 'bzip2'
                 'chaotic-keyring'
                 'cpio'
