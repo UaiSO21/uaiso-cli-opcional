@@ -9,6 +9,7 @@ url="https://uaiso.org/orion"
 license=('GPL')
 
 depends=(
+                'aria2'
                 'bash-completion'
                 'binutils'
                 'bzip2'
