@@ -54,6 +54,7 @@ depends=(
                 'trizen-git'
                 'unarchiver'
                 'unrar'
+                'vim'
                 'wget'
                 'whois'
                 'wireguard-tools'
