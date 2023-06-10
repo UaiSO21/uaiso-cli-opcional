@@ -61,6 +61,9 @@ depends=(
                 'yay-git'
                 'zip'
                 'zsh-autosuggestions'
+                'xl2tpd'
+                'strongswan'
+                'networkmanager-l2tp'
                 )
 
 #optdepends=()
