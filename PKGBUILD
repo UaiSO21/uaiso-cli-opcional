@@ -11,6 +11,7 @@ license=('GPL')
 depends=(
                 'aria2'
                 'bash-completion'
+                'bridge-utils'
                 'binutils'
                 'bzip2'
                 'chaotic-keyring'
@@ -28,7 +29,7 @@ depends=(
                 'grub-btrfs-timeshift'
                 'gzip'
                 'hddtemp'
-                'htop'
+                'btop'
                 'hwinfo'
                 'inxi'
                 'iproute2'
@@ -64,6 +65,12 @@ depends=(
                 'xl2tpd'
                 'strongswan'
                 'networkmanager-l2tp'
+                'vde2'
+                'qemu'
+                'dnsmasq'
+                'edk2-ovmf'
+                'swtpm'
+                
                 )
 
 #optdepends=()
