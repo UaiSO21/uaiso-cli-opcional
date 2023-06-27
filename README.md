@@ -1,2 +1,2 @@
 # uaiso-cli-opcional
-Contendo os pacotes para cli opcionais ou complementares.
+Contendo os pacotes para cli opcionais ou complementares. 
