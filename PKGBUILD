@@ -59,7 +59,7 @@ depends=(
                 'wget'
                 'whois'
                 'wireguard-tools'
-                'yay-git'
+                'yay'
                 'zip'
                 'zsh-autosuggestions'
                 'xl2tpd'
